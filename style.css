@@ -1,1 +1,9 @@
-
+body{
+    background-color: yellow;
+}
+.formulario{
+    display: inline-block;
+    padding: 15px 10px;
+    width: 400px;
+    background-color: white;
+}
