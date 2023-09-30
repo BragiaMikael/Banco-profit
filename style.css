@@ -5,15 +5,16 @@ body{
     text-align: center;
     font-size: 30px;
 }
-.formulario{
-    display: inline-block;
+form{
     padding: 15px 10px;
     width: 400px;
     background-color: white;
-    text-align: center;
 }
-.formulario label{
+form label{
     font-size: 22px;
     margin: 0 15px;
 }
-
+form input{
+margin: 5px 10px;
+width: 35%;
+}
