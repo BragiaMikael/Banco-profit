@@ -11,6 +11,7 @@ form{
     width: 350px;
     background-color: white;
     border-radius: 10px;
+    position: absolute;
 }
 form label{
     font-size: 22px;
