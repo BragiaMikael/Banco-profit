@@ -34,7 +34,9 @@ form p{
     text-align: center;
 }
 .enviar{
-    height: 15px;
+    height: 25px;
     width: 30%;
     background-color: greenyellow;
+    text-decoration: none;
+    border-radius: 20px;
 }
