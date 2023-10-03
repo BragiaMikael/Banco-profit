@@ -41,12 +41,13 @@ form p{
     text-align: center;
 }
 .enviar{
-    height: 25px;
-    width: 30%;
+    height: 30px;
+    width: 40%;
     background-color: greenyellow;
     border-radius: 10px;
     position: absolute;
-    right: 125px;
+    right: 115px;
+    border-color: greenyellow;
 
     
 }
