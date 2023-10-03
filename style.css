@@ -2,11 +2,14 @@ body{
     background-color: #F5CD00;
 }
 img{
-    width: 50%;
+    height: 60%;
+    width: 40%;
     border-radius: 70px;
     position: absolute;
     right: 110px;
     display: block;
+    top: -90px;
+    left: 430px;
 }
 .login{
     text-align: center;
@@ -15,7 +18,7 @@ img{
 form{
     margin: 0 auto;
     padding-left: 30px;
-    height:100px;
+    height:500px;
     width: 350px;
     background-color: white;
     border-radius: 10px;
@@ -42,6 +45,7 @@ form p{
     height: 25px;
     width: 30%;
     background-color: greenyellow;
-    text-decoration: none;
     border-radius: 20px;
+    position: absolute;
+    
 }
