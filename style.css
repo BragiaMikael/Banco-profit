@@ -17,7 +17,6 @@ img{
 }
 form{
     margin: 0 auto;
-    padding-left: 30px;
     height:500px;
     width: 350px;
     background-color: white;
@@ -45,7 +44,9 @@ form p{
     height: 25px;
     width: 30%;
     background-color: greenyellow;
-    border-radius: 20px;
+    border-radius: 10px;
     position: absolute;
+    right: 125px;
+
     
 }
