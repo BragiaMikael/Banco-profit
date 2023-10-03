@@ -2,8 +2,11 @@ body{
     background-color: #F5CD00;
 }
 img{
-    width: 30%;
+    width: 50%;
     border-radius: 70px;
+    position: absolute;
+    right: 110px;
+    display: block;
 }
 .login{
     text-align: center;
@@ -12,12 +15,13 @@ img{
 form{
     margin: 0 auto;
     padding-left: 30px;
+    height:100px;
     width: 350px;
     background-color: white;
     border-radius: 10px;
     position: absolute;
     top: 200px;
-    right: 150px;
+    right:35%;
 
 }
 form label{
