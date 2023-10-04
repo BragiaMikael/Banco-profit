@@ -28,14 +28,16 @@ form{
 }
 form label{
     font-size: 22px;
-    margin: 0 15px;
+    margin: 0 75px;
     display: block;
    
 }
 form input{
-    margin: 5px 15px;
+    margin: 5px 75px;
     height: 22px;
     width: 55%;
+    border: solid 2px #bbbbbb;
+    border-radius: 5px;
 }
 form p{
     text-align: center;
@@ -46,7 +48,7 @@ form p{
     background-color: greenyellow;
     border-radius: 10px;
     position: absolute;
-    right: 115px;
+    left: 20px;
     border-color: greenyellow;
 
     
