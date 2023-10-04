@@ -44,7 +44,7 @@ form input{
 form p{
     text-align: center;
 }
-.enviar head{
+.enviar{
     height: 30px;
     width: 40%;
     background-color: greenyellow;
@@ -54,4 +54,11 @@ form p{
     border-color: greenyellow;
 
     
+}
+.enviar :hover{
+    background-color: chartreuse;
+    height: 35px;
+    width: 45%;
+    
+
 }
